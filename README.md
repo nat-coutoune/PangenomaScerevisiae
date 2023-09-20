@@ -7,5 +7,7 @@ Repositório de códigos da proposta de Iniciação Científica FAPESP: "Montage
 ## Créditos
 
 Aluno: Álvaro de Carvalho
+
 Orientador: Andreas K. Gombert
+
 Co-orientadora: Natália Coutouné
