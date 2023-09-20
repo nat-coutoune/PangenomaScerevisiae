@@ -1,4 +1,4 @@
-# <span style="color:blue; font-family:'Arial';">Montagem de um pan-genoma para linhagens de Saccharomyces cerevisiae do bioetanol brasileiro</span>
+# <span style="color:blue; font-family:'Arial';">pan-genoma para linhagens de Saccharomyces cerevisiae do bioetanol brasileiro</span>
 
 ## introdução
 
