@@ -2,7 +2,7 @@
 
 ## introdução
 
-Repositório de códigos da proposta de Iniciação Científica FAPESP: "Montagem de um pan-genoma para linhagens de Saccharomyces cerevisiae do bioetanol brasileiro"
+Repositório de códigos da proposta de Iniciação Científica INCT Leveduras: "Montagem de um pan-genoma para linhagens de Saccharomyces cerevisiae do bioetanol brasileiro"
 
 ## Créditos
 
