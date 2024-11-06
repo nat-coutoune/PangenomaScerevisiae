@@ -15,9 +15,9 @@ Repositório de códigos da proposta de Iniciação Científica INCT Leveduras: 
 
 ## Team
 
-[Álvaro de Carvalho](https://github.com/decarvalho33)
-[Natalia Coutouné](https://www.linkedin.com/in/natalia-coutoun%C3%A9-a421b91b5/)
-[Michael Desai](https://www.physics.harvard.edu/people/facpages/desai)
-[Andreas K. Gombert](https://br.linkedin.com/in/andreas-gombert-20077935)
+[Álvaro de Carvalho](https://github.com/decarvalho33)   
+[Natalia Coutouné](https://www.linkedin.com/in/natalia-coutoun%C3%A9-a421b91b5/)    
+[Michael Desai](https://www.physics.harvard.edu/people/facpages/desai)    
+[Andreas K. Gombert](https://br.linkedin.com/in/andreas-gombert-20077935)   
 
 
