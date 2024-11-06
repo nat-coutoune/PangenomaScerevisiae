@@ -14,8 +14,7 @@ Repositório de códigos da proposta de Iniciação Científica INCT Leveduras: 
 
 ## Team
 
-| [<img src="https://avatars.githubusercontent.com/u/16027642?v=4" width=115><br>Álvaro de Carvalho</sub>(https://github.com/decarvalho33 ) |
-| :---: |
+
 | [<img src="https://avatars.githubusercontent.com/u/16027642?v=4" width=115><br><sub>Natalia Coutouné</sub>](https://github.com/nat-coutoune) |
 | :---: |
 
